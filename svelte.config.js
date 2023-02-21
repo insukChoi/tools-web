@@ -14,7 +14,8 @@ const config = {
 	],
 
 	kit: {
-		adapter: adapter()
+		adapter: adapter(),
+		appDir: '_app',
 	}
 };
 
